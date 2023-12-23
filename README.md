@@ -1,5 +1,16 @@
-* Project Title - The name of the project and a brief description of the main goal and purpose of the project.    
-* Demo Link - If you have a working demo of the project, provide the link so readers can see your project in action.    
+sample project README  
+<details>
+  <summary>Project Title</summary>
+  <p>The name of the project and a brief description of the main goal and purpose of the project.</p>
+</details>  
+
+<details>
+  <summary>Demo Link</summary>
+  <p> If you have a working demo of the project, provide the link so readers can see your project in action.</p>
+</details>  
+
+
+  
 * Table of Contents (optional) - If the project has sections, a table of contents can be generated from the section titles. The section titles are preceded by the ## characters in this raw text example.    
 * Business Understanding - Your description of the goals and purpose of the project. In this section, you should explain a little about what you wanted to accomplish, why you selected this analysis project, and any challenges that you faced while working through the project.    
 * Data Understanding - Your description of the goals and purpose of the project. In this section, you should explain a little about what you wanted to accomplish, why you selected this analysis project, and any challenges that you faced while working through the project.    
